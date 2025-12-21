@@ -34,21 +34,15 @@
 
 <!-- Stats Section: Vertical Stack with "radical" theme for Anime Aesthetic -->
 
-<a href="https://github.com/kazama01">
   <img src="https://github-readme-stats.vercel.app/api?username=kazama01&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</a>
 
 <br />
 
-<a href="https://github.com/kazama01">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazama01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</a>
 
 <br />
 
-<a href="https://github.com/kazama01">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazama01&theme=radical&hide_border=true" alt="GitHub Streak" />
-</a>
 
 <br />
 
@@ -59,6 +53,4 @@
 <br />
 
 <!-- Herta Theme Activity Graph -->
-<a href="https://github.com/kazama01">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazama01&bg_color=0d1117&color=a45ee5&line=a45ee5&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</a>
