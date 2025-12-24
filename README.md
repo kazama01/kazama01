@@ -34,11 +34,11 @@
 
 <!-- Stats Section: Vertical Stack with "radical" theme for Anime Aesthetic -->
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kazama01&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-brown-iota-56.vercel.app/api?username=kazama01&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
 <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazama01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-brown-iota-56.vercel.app/api/top-langs/?username=kazama01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 <br />
 
