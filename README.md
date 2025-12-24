@@ -34,23 +34,12 @@
 
 <!-- Stats Section: Vertical Stack with "radical" theme for Anime Aesthetic -->
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kazama01&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-<br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazama01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazama01&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- Replaced with generated metrics from GitHub Action (Includes: Stats, Top Langs, IsoCalendar, Achievements) -->
+  <img src="github-metrics.svg" alt="GitHub Stats" />
 
 <br />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kazama01&style=flat-square&color=d93a7c" alt="Profile Views" />
 </p>
-
-<br />
-
-<!-- Herta Theme Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazama01&bg_color=0d1117&color=a45ee5&line=a45ee5&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
