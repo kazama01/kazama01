@@ -42,7 +42,7 @@
 
 <br />
 
-  <img src="https://streak-stats.demolab.com?user=kazama01&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kazama01&theme=nightowl&hide_border=true&refresh=1" alt="GitHub Streak" />
 
 <br />
 
