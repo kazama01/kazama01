@@ -42,7 +42,7 @@
 
 <br />
 
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=kazama01&theme=nightowl&locale=jv&exclude_days=Sun%2CMon)](https://git.io/streak-stats)" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kazama01&theme=nightowl&hide_border=true" alt="GitHub Streak" />
 
 <br />
 
